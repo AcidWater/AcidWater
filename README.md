@@ -7,6 +7,6 @@
 - 📫 저에게 연락하고 싶으시면...
   - Gmail: guno0302@gmail.com
   - Facebook: https://www.facebook.com/profile.php?id=100023247730964
-
+  - Discord: 생연님#8220
 
 SangYeon 🤛
