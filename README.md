@@ -1,8 +1,11 @@
-### 반가워요! 👋
+# SangYeon (Guno Kim) 👋
 
-- 💻 JS와 C#을 공부하고있어요!
-- 🤔 디맥할사람?
-- 💬 React는 최고의 라이브러리
-- 📫 저에게 연락하고 싶으시면...
-  - Gmail: guno0302@gmail.com
-  - Discord: 737#1000
+<div align=center>
+ 
+[![Gmail Badge](https://img.shields.io/badge/guno0302@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guno0302@gmail.com)](mailto:guno0302@gmail.com)
+![Discord](https://img.shields.io/badge/737%231000-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
+
+
+[![SangYeon's github stats](https://github-readme-stats.vercel.app/api?username=AcidWater&bg_color=30,0559B2,2A9E60&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
+
+~~is there anyone to play djmax withme?~~
