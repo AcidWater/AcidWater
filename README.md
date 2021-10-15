@@ -7,4 +7,4 @@
 
 [![SangYeon's github stats](https://github-readme-stats.vercel.app/api?username=AcidWater&bg_color=30,0559B2,2A9E60&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-Pour mon but.
+그 사실 아십니까?
